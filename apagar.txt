@@ -1,2 +1,0 @@
-Link Repo: https://github.com/Huriel-Becker/Design-Patterns-Typescript
-Origin git@github.com:Huriel-Becker/Design-Patterns-Typescript.git
