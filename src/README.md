@@ -1,5 +1,13 @@
-Essa é apenas a raiz do projeto, então não há nada aqui para ser visto. Os detalhes dos padrões estão dentro de cada uma das pastas com seu nome. Existe um README com a descrição completa do padrão, um (ou mais) diagrama(s) e um trecho de código. Cada padrão está em sua categoria correspondente, são elas: creational (criacionais), behavioural (comportamentais) e structural (estruturais).
+# Padrões de projeto com TypeScript
 
-Os vídeos descrevendo os padrões são publicados em https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H
+Este é o repositório da seção de Padrões de Projeto disponível gratuitamente em:
 
-Por favor, acompanhe os vídeos para maior entendimento.
+https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H
+
+Por favor, acompanhe os vídeos para maior entendimento.  
+
+As pastas estão organizadas com as categorias dos padrões de projeto segundo o livro da GoF. São elas, behavioural (comportamentais), creational (criacionais) e structural (estruturais).
+
+Cada pasta contém um README detalhando a categoria em si e os padrões de projeto nela presentes.
+
+Cada padrão de projeto está dentro de uma pasta com seu nome. Existe um README descrevendo o padrão, um ou mais diagramas e trechos de código para exemplificação de implementação.
